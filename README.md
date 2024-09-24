@@ -1,44 +1,122 @@
 java c
-PLA 4539: DEVELOPMENT PROCESS II 
-FALL 2024 
-COURSE DESCRIPTION 
-The Development Process course sequence is an application-based approach to developing an idea for how a site should be developed, assessing feasibility of the initial concept, and revising the development program. 
-Referencing the initial conceptualization work of Development Process I (completed in Summer 2024 Semester A), this sequel course is intended to drive home the iterative work necessary to align design development and ﬁnancial feasibility into a viable project. Students will draw from and apply technical concepts and learning outcomes from other core and elective courses in a coordinated way to develop a proposed project as their ﬁ nal deliverable. 
-The coursework emphasizes students acquainting themselves with a speciﬁc development site, and by applying a new phase of the development process each week, will build an investment strategy for their site resulting in a deal book as a ﬁ nal course deliverable.
-This course builds toward preparing students for the comprehensive understanding of the development process required for Capstone.
-Readings and guest speakers will be introduced to provide additional context as appropriate.
-COURSE REQUIREMENTS  EXPECTATIONS 
-3.0 credits (core requirement) 
-This is a required core course within the MSRED program curriculum. Successful completion of it is one of the minimum requirements for graduation. It is structured as a continuation of the Development Process I (completed in Summer2024  Semester A).  Completion of Development Process I is a prerequisite for enrollment in this course. 
-Students will be expected to attend all scheduled classes in-person and to participate actively to the maximum extent possible, including actively engaging in weekly class discussions and with any guest speakers to demonstrate their grasp of concepts being discussed in class. In addition to discussion and reﬂection, class participation may include responding to polls, sharing completed assignments, breaking out into groups, or giving short presentations. 
-The course structure will require students to review course materials and complete graded assignments as either outlined here on the syllabus or posted on Courseworks. Students should expect 6-8 hours of class-related work in addition to class time each week. 
-In addition to the scheduled weekly lecture, students are expected to attend a regularly-scheduled lab for support in completing assignments and/or for furthering the understanding of lecture content.
-Graded work must be completed and submitted on time.
-There will be no ﬁ nal exam for this course but there will be a required individual development proposal deliverable.
-LEARNING OUTCOMES 
-De代 写PLA 4539: DEVELOPMENT PROCESS II FALL 2024R
-代做程序编程语言velopment Process II is focused on deepening students’ understanding of the relationship among design, the market, regulatory constraints, stakeholders, and ﬁnancial tools in shaping the outcome of a proposed project. Concepts that students should be expected to understand by the end of the class include, among others: 
-● land valuation 
-● design development 
-● back of the envelope (BOE) analysis 
-● ﬁ nancial viability 
-● affordable housing 
-● ﬁ nanci ng sources 
-● development scenarios 
-● presenting a proposal 
-COURSE MATERIALS  ASSIGNMENTS 
-Columbia University’s online Courseworks system will be used for posting and updating the course outline and syllabus on a regular basis, as well as for weekly announcements by the Teaching Assistant or instructors. All course materials - such as readings, supplemental materials and assignments - will be posted, linked and accessible online on Courseworks approximately one week in advance of the class date. Students will be expected to review the assigned course materials in advance of each class and to be prepared to discuss including bringing any questions raised to the next lab or lecture.
-All assignments will be posted on Courseworks roughly one week in advance of their due date. Completion of assignments in a timely manner is a critical component of the course as many assignments will build upon students’ previously completed and graded work.
-All assignments for this class are individual assignments (unless speciﬁcally stated otherwise in the assignment prompt). Students are required to work independently to complete assigned work.
-COURSE GRADING CRITERIA 
-Attendance:  10%
-Discussion  Participation: 25%
-Assignments  Presentations: 35%
-Final Project:  30%
-Only exceptional performers will receive a High Pass. Those who fall s hort on multiple assignments or who are repeatedly absent from class may receive a Low Pass.
-All assignments must be submitted on Courseworks. Emailed submissions will not be accepted.
-Extensions must be requested in advance of the assignment due date and can be awarded at the sole discretion of the professor. Each extension awarded will include a new assignment due date after which standard grading deductions will be applied. Assignments that are more than three (3) days late without an approved extension may not be reviewed. Assignments submitted after the approved extension deadline will not be reviewed.
-If a grade review or adjustment is being requested by a student, a written request must be submitted via the required form. The link to the form. will be available on Courseworks. Re-grade requests that are communicated verbally or by email  may not be accepted. 
+Assignment One - PART B:  Construction Risk Assessment 
+Due date: Monday 30th September 2024 
+Assignment One - PART B contributes towards 20% of your grade for this course.
+Background 
+The purpose of this assignment is for you to confirm your understanding of construction and engineering when managing subcontractors.  As part of this, you need to identify the associated risks. 
+Provide an assessment on potential risks to be encountered during the construction operations of the works that have been provided for you.
+Pre-recorded Site Tour 
+The following link will take you to the pre-recorded question and answer session of the now complete extension to the Sir Neil Waters Building. The video includes commentary from the main contractor, past students and senior lecturer to assist you in answering all the questions for this assignment. https://youtu.be/FQND2yhYa4U Apply your knowledge learned from class and the information from your site example. This will cover construction techniques that are being adopted that will allow the buildability to run as per your previously identified construction program. 
+Identify all necessary construction materials, plant and equipment, waste and note all potential health and safety issues.
+This report is to be submitted to your manager for review.
+ASSESSMENT The assignment consists of three tasks worth a total of 100 marks. Overall, the assignment is worth 20% of the total mark for the course. Your score out of the 100% will be factored by 20% to establish the score contribution to the overall mark for the course.
+Carry out a risk assessment on the proposed works for this project.
+PART 1. 
+Provide a written report that contains the following:
+A.  Identify and analyse one (1) risk item connected to the proposed works for each of the following:
+a)  Materials management , supply and logistics;
+b)  Health and safety management;
+c)  Construction plant and equipment;
+d)  Quality management and assurance; and
+e)  Construction waste management.
+PART 2 
+B.  Provide a detailed assessment of the risks’ resultant effects on the success of the construction project if not treated.
+C.  Identify realistic treatment(s) to the construction risks identified.
+PART 3 
+Draw up a risk register (in table form) containing the construction risks identified and the treatment(s) to these risks. The risk register should contain the following: 
+A.  Item number;
+B.  Description;
+C.  Risk level (high, medium or low);
+D.  Impact without treatment (cost impact, time impact, quality impact); and
+E.  Responses (avoid, accept, transfer, mitigate).
+SUBMISSION Please submit your scripts in editable electronic formats (Word,   where applicable) . Please no pdf formats! Submit ON OR BEFORE MONDAY 30th of September 2024 DEADLINE via STREAM site for the course. The feedback you will receive will be in electronic format.
+Research Use the information provided during your online Site Visit and other relevant resources such as the lecture slides, textbooks, journals articles, NZ Building Code, New Zealand contractors and construction managers for this assignment.
+Assessment Specifications Present your report in A4 format with appropriate APA in-text citation and cross references whe代 写Assignment One – PART B: Construction Risk AssessmentMatlab
+代做程序编程语言re applicable.
+The total word count limit for the report is between 2,500 - 3,000 words.
+As discussed in your course guide, the following applies to this assignment:
+Your assignments must be in the following format:
+Softcopy:  This  should  be  submitted  to  the  Stream  site  for  this course.  The work  must  be  in  its  original  format  (Word,  Excel  or software) .
+PDF can only be accepted for appendix documents only.
+If the main work is in PDF, your submission will not be accepted!This course has been selected for  inclusion in the Massey University plagiarism detection  programme.  Massey  University  is  quite  serious about   plagiarism.   Plagiarism   is   considered   to   be   an   academic misconduct.
+The  content  of  this  report  will  count  for  90%  of  the  total  marks  to  be awarded.
+The remaining  10% will be awarded for quality of written work including correct  grammar  and  spelling,  overall  report  presentation  and  correct referencing style.
+This assignment is available for at least  1  month before the submission deadline.  As  such,  it  should  be  received  by  the  due  date.  Computer crashes are not accepted as a reason for late submissions, so copy your assignment to an external drive on a regular basis as you work on it. Also, other  workload  (personal  and  academic)  will  not  be  considered  as  a special circumstance.
+In the interest of fairness to students who have handed assignments in on time, late assignments will be penalised, at a rate of 3% for each calendar day late. Unless extenuating circumstances are present, work handed in more than 7 calendar days late will not receive any marks.
+If you cannot meet the due date, it is essential that you contact the course coordinator for an extension at least 5 working days prior to the deadline.
+Note: Extensions are not granted without good reason.Your  request for  extension  must  be  accompanied  by  supporting document(s) according  to  the  Massey  University  Policy  Guide  for  assessment  procedures (page 2) .
+ASSIGNMENT ONE - PART B - MARKING SCHEME 
+Students Details 
+Assignment Details 
+Student ID: 
+
+Course Code: 
+218.230 
+Surname: 
+
+Course Name: 
+Construction Operations and Control 
+First Name: 
+
+Set By: 
+HvH 
+Programme: 
+Construction 
+Assignment: 
+Assignment One - PART B 
+Level/Year: 
+UG 
+Due Date: 
+30.09.24 
+
+Marks 
+Obtained Marks 
+Part 1 (30%) Risk Identification 
+5 Potential Construction Risks 
+10 
+
+Risks Adequately Analysed 
+20 
+
+Part 2 (20%) Risk Assessment 
+Detailed Assessment 
+20 
+
+Part 3 (40%) Risk Register 
+Identified Risks 
+10 
+
+Risk Register Form 
+30 
+
+Part 4 (10%) Quality of Report 
+Structure 
+3 
+
+Wording 
+3 
+
+References 
+4 
+
+TOTAL MARKS 
+100 
+
+Penalty for Late Submission: 3% per day for each calendar day up to 
+7 days; after this no marks will be gained. 
+
+
+Penalty for Word Count (2,500 - 3,000) 1% per +/- 100 words 
+
+
+Penalty for Plagiarism: Turnitin score: % (Apply penalty or comment below if score is greater than 15%) 
+
+
+FINAL TOTAL MARKS 
+
+
+
+
 
 
 
